@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DomainProjects.SurveyApp", "DomainProjects.SurveyApp\DomainProjects.SurveyApp.csproj", "{70E9FA24-1F51-4706-AC3D-1FD6C590456C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DomainProjects.SurveyApp.Test", "DomainProjects.SurveyApp.Test\DomainProjects.SurveyApp.Test.csproj", "{DA4B8DB2-DCE2-4A90-A289-E625F74106D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70E9FA24-1F51-4706-AC3D-1FD6C590456C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70E9FA24-1F51-4706-AC3D-1FD6C590456C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70E9FA24-1F51-4706-AC3D-1FD6C590456C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70E9FA24-1F51-4706-AC3D-1FD6C590456C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA4B8DB2-DCE2-4A90-A289-E625F74106D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA4B8DB2-DCE2-4A90-A289-E625F74106D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA4B8DB2-DCE2-4A90-A289-E625F74106D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA4B8DB2-DCE2-4A90-A289-E625F74106D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
